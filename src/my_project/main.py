@@ -5,3 +5,4 @@ def main():
     print(f"Факторіал {num}: {factorial(num)}")
 if __name__ == "__main__":
     main()
+# 123123test
