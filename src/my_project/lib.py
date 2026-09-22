@@ -1,5 +1,5 @@
 def parne(n: int) -> bool:
-    "Перевірка на парність"
+    "Перевірка на парність testb"
     return n % 2 == 0
 def factorial(n: int) -> int:
     "Обчислює факторіал n."
